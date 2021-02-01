@@ -1,4 +1,4 @@
-# Curso Alura Testes Bdd Cucumber
+# Curso Alura Testes BDD Cucumber
 
 Curso realizado na Alura sobre testes automatizados e desenvolvimento orientado por comportamento (**BDD**). Para escrever os testes foi utilizado a depedência **Cucumber** que cria testes a partir de um arquivo *.feature* escrito na linguagem Gherkins. Tanto testes unitários quando testes E2E (utilizando o Selenium) foram escritos com auxílio do Cucumber.
 
